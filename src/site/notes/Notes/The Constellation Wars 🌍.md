@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/the-constellation-wars/"}
 ---
 
+## Backstory
 
 In the year 2030 [[Notes/Templum Norma (Naós Nórma) - Loyals of The Eye🖤\|Templum Norma (Naós Nórma) - Loyals of The Eye🖤]] were established.
 
@@ -24,5 +25,8 @@ where freedom, aspiration, discernment, and human dignity are cherished.
 The current year is 2049. Recent movement of tectonic plates allowed an energy-rich substance to emerge to the surface. It has the appearance of black tar and is commonly known as 'the [[Sludge\|Sludge]]'.
 
 [[Sludge\|Sludge]] is now the most sought-after and most fought-over resource in the world.
+
+
+Note that this is the planned backstory / lore for Assembly RTS - This doesn't mean that there will be Singleplayer Campaign.
 
 #faction 
